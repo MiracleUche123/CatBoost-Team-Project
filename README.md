@@ -109,7 +109,7 @@ https://docs.google.com/presentation/d/14djmqNU36mC2RXSl-C-B7rOsaddkawvN/edit?us
 
 ## Link to the documentation
 
-https://docs.google.com/document/d/1wf9p4NuqtEVIMXHbjOJKFH2DEnwu3b3A/edit?usp=drivesdk&ouid=113551083294748919720&rtpof=true&sd=true
+https://medium.com/@miracleuche_/remittance-pattern-and-economic-development-a-project-documentation-for-team-catboost-hamoye-d9ba40cc13a9
 
 ## Folders present in the project:
 
