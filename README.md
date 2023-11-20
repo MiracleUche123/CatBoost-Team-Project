@@ -95,7 +95,7 @@ We built different algorithms, such as
 - And compared their metrics.
 
 ## Model selected for the project:
-XGBoost
+RandomForest
 
 ## Model Deployment:
 Streamlit was used to deploy the model
